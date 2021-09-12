@@ -227,3 +227,9 @@ hr{
   padding-top:26px;
   font-weight:bold;
 }
+
+@media(max-width:480px){
+    body {
+    width: fit-content;
+}
+}
